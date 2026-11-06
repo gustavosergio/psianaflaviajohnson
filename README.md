@@ -19,4 +19,8 @@ Não há instalação de dependências ou etapa de build. GitHub Pages serve os 
 - Paleta inspirada nas publicações: areia, verde, terracota e dourado.
 - Contato fornecido: https://wa.me/558192366095. Preservado exatamente como enviado.
 
-Valores, horários, endereço e disponibilidade de modalidades devem ser confirmados diretamente com a profissional. O site não contém depoimentos ou credenciais inventados, formulários de coleta de dados ou rastreamento.
+Valores, horários e disponibilidade de modalidades devem ser confirmados diretamente com a profissional. O site não contém depoimentos ou credenciais inventados, formulários de coleta de dados ou rastreamento.
+
+## Localização
+
+Página `localizacao.html`, com mapa e rota no Google Maps. Endereço fornecido pelo solicitante: Avenida Conselheiro Rosa e Silva, 1460, Shopping ETC, Cobertura — Graças, Recife — PE, 52050-020.
